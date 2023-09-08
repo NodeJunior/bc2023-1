@@ -1,1 +1,1 @@
-console.log("Hello, NodeJunior!");\
+console.log("Hello, NodeJunior!");
